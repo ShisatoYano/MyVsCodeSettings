@@ -3,6 +3,7 @@ CoenraadS.bracket-pair-colorizer
 donjayamanne.githistory
 eamodio.gitlens
 formulahendry.code-runner
+gerane.Theme-Dracula
 gerane.Theme-Monokai-Vivid
 kube.clangcomplete
 mattn.Runner
@@ -10,4 +11,5 @@ mechatroner.rainbow-csv
 MS-CEINTL.vscode-language-pack-ja
 ms-python.python
 ms-vscode.cpptools
-robertohuertasm.vscode-icons
+oderwat.indent-rainbow
+PKief.material-icon-theme
